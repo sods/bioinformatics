@@ -5,15 +5,15 @@ layout: page
 {{ content }}
 
 <h2>Lectures</h2>
-{% for post in site.posts | reversed %}
+{% for post in site.posts reversed %}
 {% if post.layout == "lecture" %}
-<p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> ({% if post.tagline %}{{ post.tagline }}{% endif %}{{ post.date | date: "%A, %B %-d" }}){% if post.venue %} in {{ post.venue }}{% endif %}</p>
+<p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.tagline %}<b>{{ post.tagline }}</b>{% endif %} {{ post.date | date: "%H %A, %B %-d" }}{{ post.length }} hrs {% if post.venue %} in {{ post.venue }}{% endif %}</p>
 {% endif %}
 {% endfor %}
 
 <h2>Lab Classes</h2>
-{% for post in site.posts | reversed %}
+{% for post in site.posts reversed %}
 {% if post.layout == "lab" %}
-<p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> ({% if post.tagline %}{{ post.tagline }}{% endif %}{{ post.date | date: "%A, %B %-d" }}){% if post.venue %} in {{ post.venue }}{% endif %}</p>
+<p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> {% if post.tagline %}<b>{{ post.tagline }}</b>{% endif %} {{ post.date | date: "%H %A, %B %-d" }}{{ post.length }} hrs {% if post.venue %} in {{ post.venue }}{% endif %}</p>
 {% endif %}
 {% endfor %}
