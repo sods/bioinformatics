@@ -12,7 +12,9 @@ github_username:  martamilo
 
 # Build settings
 markdown: kramdown
-disqus: opendsi
+disqus: opendsicc
+comments: true
+
 analytics:
   google:
     tracking_id: UA-62964644-1
