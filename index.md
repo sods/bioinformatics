@@ -10,9 +10,7 @@ This module is aimed at biology students with little or no knowledge of programm
 1. making them aware of
 effects of experimental design in the subsequent data analysis;
 
-2. having a good
-understanding of technologies and methods for Bioinformatics and
-are introduced to basic coding and using of workflow and
+2. having a good understanding of technologies and methods for Bioinformatics and are introduced to basic coding and using of workflow and
 pipelines for their data analysis.
 
 It will use a multidisciplinary approach integrated with programming
