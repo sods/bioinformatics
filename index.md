@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BMS353
+title: About
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/about_image.jpg)
