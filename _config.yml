@@ -9,7 +9,7 @@ baseurl: "/bioinformatics" # the subpath of your site, e.g. /blog/
 url: "http://opendsi.cc" # the base hostname & protocol for your site
 twitter_username: marta_milo
 github_username:  martamilo
-
+banner: banner_image.jpg
 # Build settings
 markdown: kramdown
 disqus: opendsicc
