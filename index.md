@@ -45,8 +45,7 @@ Notebook](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-noteb
 
 * [R programming](http://www.statmethods.net/)
 
-* [Element of
-statistics](http://www.open.edu/openlearnworks/mod/oucontent/view.php?id=18263&printable=1)
+* [Elements of Statistics](http://www.open.edu/openlearnworks/mod/oucontent/view.php?id=18263&printable=1)
 
 #### Recommended text books
 
