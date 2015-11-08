@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src='{{ site.url }}{{ site.baseurl }}/assets/about_image.jpg' width=30%>
+<img src='{{ site.url }}{{ site.baseurl }}/assets/about_image.jpg' width=300px>
 
 This module is aimed at biology students with little or no knowledge of programming and statistics, with the aims of
 
