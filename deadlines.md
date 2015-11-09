@@ -22,3 +22,7 @@ Formative feedback will be given on the notebooks that are saved in that folder 
 ## Final Project Deadline
 
 The final project will have to be saved in its final form on the SageMathCloud system in your FinalProject folder. It will marked and its grade contributes to the 70% of the final module grade.
+
+MCQ deadline: 
+
+Final project deadline:
