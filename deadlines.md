@@ -25,4 +25,8 @@ The final project will have to be saved in its final form on the SageMathCloud s
 
 MCQ deadline: 
 
-Final project deadline:
+
+
+**Final project deadline** 
+
+The final project will have to be saved in their final version on the SageMathCloud personal folder on the **15th of January 2016** by 5pm. 
