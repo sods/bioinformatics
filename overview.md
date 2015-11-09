@@ -5,7 +5,7 @@ title: Overview
 
 ## Overview
 
-BMS353 - Bioinformatics for Biomedical Science
+BMS353 - Bioinformatics for Biomedical Science -- 
 Module Co-ordinator: [Dr M Milo](https://www.sheffield.ac.uk/bms/research/milo)
 
 
