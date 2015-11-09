@@ -30,7 +30,7 @@ statistical methods and enhance innovative thinking in data analysis.
 
 The module is dedicated to Level 3 Biomedical Science students but
 prerequisites are compulsory. A pre-assessment test can be found
-*here*.
+[here](http://opendsi.cc/bioinformatics/assets/PreAssessment_test_Part1_Part2.pdf).
 
 Some suggested sites where additional material can be found, are listed
 below:
@@ -57,4 +57,6 @@ constantly being open source software.
 
 However, there are a series of text books available in the library for
 you to consult:
+
+book1
 
