@@ -7,7 +7,11 @@ title: Overview
 
 BMS353 - Bioinformatics for Biomedical Science
 Module Co-ordinator: [Dr M Milo](https://www.sheffield.ac.uk/bms/research/milo)
+
+
 Research Software Instructor: [Dr Mike Croucher](http://www.walkingrandomly.com/)
+
+
 Semester 1B – Level 3 Biomedical Science 2015/2016
 
 ## Module Overview
