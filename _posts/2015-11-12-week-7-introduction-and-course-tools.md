@@ -7,4 +7,10 @@ venue: HI-G25
 tagline: Introduction to the Course and the Tools
 ---
 
-This is a test. Content will appear here.
+Week 7 Lecture content will appear here.
+
+Week 7 practical notebook link will appear here.
+
+**Additional Reading**
+
+[The Big Challenges of Big Data](https://github.com/sods/bioinformatics/blob/gh-pages/assets/Big_Data_Biology.pdf)
