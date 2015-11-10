@@ -9,7 +9,7 @@ tagline: Introduction to the Course and the Tools
 
 Week 7 Lecture content will appear here.
 
-Week 7 practical notebook link will appear here.
+
 
 **Useful links**
 
