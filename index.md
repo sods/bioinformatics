@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/about_image.jpg" width=30%>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/about_image.jpg" width="30%"/>
 
 This module is aimed at biology students with little or no knowledge of programming and statistics, with the aims of
 
@@ -30,7 +30,7 @@ statistical methods and enhance innovative thinking in data analysis.
 
 The module is dedicated to Level 3 Biomedical Science students but
 prerequisites are compulsory. A pre-assessment test can be found
-*here*.
+[here](http://opendsi.cc/bioinformatics/assets/PreAssessment_test_Part1_Part2.pdf).
 
 Some suggested sites where additional material can be found, are listed
 below:
