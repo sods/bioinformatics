@@ -11,6 +11,10 @@ Week 7 Lecture content will appear here.
 
 Week 7 practical notebook link will appear here.
 
+**Useful links**
+
+A list of common mathematical notations and symbols can be found [here](https://en.wikipedia.org/wiki/List_of_mathematical_symbols)
+
 **Additional Reading**
 
 [The Big Challenges of Big Data](https://github.com/sods/bioinformatics/blob/gh-pages/assets/Big_Data_Biology.pdf)
