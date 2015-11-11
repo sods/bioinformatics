@@ -3,8 +3,6 @@ layout: page
 title: Exam
 ---
 
-## Exam
-
 The exam for this module will be split in two parts: 
 
 * Part A – A Multiple Choice Question test for the duration of 1hr and 30 min, that will count 30% of the final grade
