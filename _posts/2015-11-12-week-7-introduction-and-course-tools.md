@@ -7,7 +7,7 @@ venue: HI-G25
 tagline: Introduction to the Course and the Tools
 ---
 
-Week 7 Lecture content can be downloaded [here] (https://github.com/sods/bioinformatics/blob/gh-pages/assets/Lecture_Wk7.pdf).
+Week 7 Lecture content can be downloaded [here](https://github.com/sods/bioinformatics/blob/gh-pages/assets/Lecture_Wk7.pdf).
 
 
 
