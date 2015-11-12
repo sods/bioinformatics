@@ -22,7 +22,7 @@ The lectures are on Thursdays, the labs on Fridays. The teaching schedule and ve
 
 **Rooms Location**
 
- Room code   |Building            |Room
- ----------- | --------------     | ----
- HI-G25      | Hicks Building     | G25
- IC 3.02     | Information Commons| 3.02
+ Room code   |Building              |Room
+ ----------- |-------------------   |----
+ HI-G25      | Hicks Building       | G25
+ IC 3.02     | Information Commons  | 3.02
