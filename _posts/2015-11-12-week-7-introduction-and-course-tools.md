@@ -7,7 +7,7 @@ venue: HI-G25
 tagline: Introduction to the Course and the Tools
 ---
 
-Week 7 Lecture content can be downloaded [here](https://github.com/sods/bioinformatics/blob/gh-pages/assets/Lecture_Wk7.pdf).
+Week 7 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk7.pdf).
 
 
 
@@ -17,4 +17,4 @@ A list of common mathematical notations and symbols can be found [here](https://
 
 **Additional Reading**
 
-[The Big Challenges of Big Data](https://github.com/sods/bioinformatics/blob/gh-pages/assets/Big_Data_Biology.pdf)
+[The Big Challenges of Big Data](http://opendsi.cc/bioinformatics/assets/Big_Data_Biology.pdf)
