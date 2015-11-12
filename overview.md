@@ -19,3 +19,10 @@ This module aims to provide an understanding of the fundamental concepts and tec
 The teaching consists of two hours of lectures and two of lab classes each week.
 
 The lectures are on Thursdays, the labs on Fridays. The teaching schedule and venue for each week are given below.
+
+**Rooms Location**
+
+ Room code   |Building            |Room
+ ----------- | --------------     | ----
+ HI-G25      | Hicks Building     | G25
+ IC 3.02     | Information Commons| 3.02
