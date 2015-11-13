@@ -7,8 +7,8 @@ venue: HI-G25
 tagline: Introduction to the Course and the Tools
 ---
 
-Week 7 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk7.pdf).
-
+* Week 7 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk7.pdf).
+* Week 7 talk from the practical session can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Practical_talk_Wk7.pdf)
 
 
 **Useful links**
