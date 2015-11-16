@@ -25,4 +25,6 @@ The lectures are on Thursdays, the labs on Fridays. The teaching schedule and ve
  Room code   |Building              |Room
  ----------- |-------------------   |----
  HI-G25      | Hicks Building       | G25
+ HI-F28      | Hicks Building       | F28
+ HI-F20      | Hicks Building       | F20
  IC 3.02     | Information Commons  | 3.02
