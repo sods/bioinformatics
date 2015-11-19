@@ -7,7 +7,7 @@ venue: HI-F28
 tagline: Concepts of Statistics and their Implementation for Data Analysis
 ---
 
-Week 8 Lecture content will appear here.
+* Week 8 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk8.pdf).
 
 
 
