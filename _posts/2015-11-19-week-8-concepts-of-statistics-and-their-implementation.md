@@ -15,3 +15,6 @@ tagline: Concepts of Statistics and their Implementation for Data Analysis
 
 
 Here are some examples of the use of [Statistics in Biology](http://www.nature.com/collections/qghhqm/content/statistics-in-biology)
+
+
+Information on [Bessel's correction](https://en.wikipedia.org/wiki/Bessel%27s_correction) for the sample variance. 
