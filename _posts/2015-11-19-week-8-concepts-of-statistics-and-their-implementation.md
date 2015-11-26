@@ -7,7 +7,7 @@ venue: HI-F28
 tagline: Concepts of Statistics and their Implementation for Data Analysis
 ---
 
-Week 8 Lecture content will appear here.
+* Week 8 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk8.pdf).
 
 
 
@@ -15,3 +15,6 @@ Week 8 Lecture content will appear here.
 
 
 Here are some examples of the use of [Statistics in Biology](http://www.nature.com/collections/qghhqm/content/statistics-in-biology)
+
+
+Information on [Bessel's correction](https://en.wikipedia.org/wiki/Bessel%27s_correction) for the sample variance. 

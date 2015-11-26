@@ -6,3 +6,5 @@ length: 2
 venue: IC 3.02
 tagline: Basics of Data Manipulation Using Scripts
 ---
+
+Week 8 practical notebook is linked into your SageMathCloud account in the folder called “Week 8”, with the name Week_8_practical.ipynb
