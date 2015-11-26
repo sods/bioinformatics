@@ -6,3 +6,8 @@ length: 2
 venue: HI-F28
 tagline: Bioinformatics for High Throughput Data
 ---
+
+* Week 9 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk9.pdf).
+
+
+
