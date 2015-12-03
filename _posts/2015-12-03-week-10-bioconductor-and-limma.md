@@ -14,4 +14,4 @@ tagline: Gene Expression Analysis, use of Bioconductor and Limma
 Additional information on *Bayesian Inference* can be found in the Wikipedia page linked [here](https://en.wikipedia.org/wiki/Bayesian_inference).
 
 
-You can read more on the impact of *Bayesian Inference in Genetics* [here]()
+You can read more on the impact of *Bayesian Inference in Genetics* [here](http://opendsi.cc/bioinformatics/assets/Bayesian_Rev_genetics.pdf)
