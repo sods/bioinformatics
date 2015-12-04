@@ -15,3 +15,6 @@ Additional information on *Bayesian Inference* can be found in the Wikipedia pag
 
 
 You can read more on the impact of *Bayesian Inference in Genetics* [here](http://opendsi.cc/bioinformatics/assets/Bayesian_Rev_genetics.pdf)
+
+
+Limma research paper can be accessed [here](http://opendsi.cc/bioinformatics/assets/limma-biocbook-reprint.pdf)
