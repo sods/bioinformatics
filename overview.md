@@ -25,8 +25,8 @@ Given the complexity of the time table this academic year, please make sure you 
  Room code   |Building              |Room
  ----------- |-------------------   |----
  AT-LT05      | Arts Tower       | LT05
- AT-1012      | Hicks Building       | F20
- HI-LT03     | Information Commons  | 3.02
- ADB-A04     |                      |
- FC-G02      |                      |
+ AT-1012      | Arts Tower       | Computer rooms
+ HI-LT03     | Hicks Building  | LT03
+ ADB-A04     | Alfred Benny Building |A04
+ FC-G02      | Firth Court | G02
  
