@@ -7,10 +7,10 @@ BMS353 - Bioinformatics for Biomedical Science --
 Module Co-ordinator: [Dr Marta Milo](https://www.sheffield.ac.uk/bms/research/milo)
 
 
-Research Software Instructor: [Dr Mike Croucher](http://www.walkingrandomly.com/)
+Research Software Support: [Dr Mike Croucher](http://www.walkingrandomly.com/)
 
 
-Semester 1B – Level 3 Biomedical Science 2015/2016
+Semester 1A – Level 3 Biomedical Science 2016/2017
 
 ## Description
 
@@ -18,13 +18,15 @@ This module aims to provide an understanding of the fundamental concepts and tec
 
 The teaching consists of two hours of lectures and two of lab classes each week.
 
-The lectures are on Thursdays, the labs on Fridays. The teaching schedule and venue for each week are given below.
+Given the complexity of the time table this academic year, please make sure you check on MOLE for teh correct location and time of teh lectures and practicas. The teaching schedule and venues for each week are given here.
 
 **Rooms Location**
 
  Room code   |Building              |Room
  ----------- |-------------------   |----
- HI-G25      | Hicks Building       | G25
- HI-F28      | Hicks Building       | F28
- HI-F20      | Hicks Building       | F20
- IC 3.02     | Information Commons  | 3.02
+ AT-LT05      | Arts Tower       | LT05
+ AT-1012      | Hicks Building       | F20
+ HI-LT03     | Information Commons  | 3.02
+ ADB-A04     |                      |
+ FC-G02      |                      |
+ 
