@@ -1,15 +1,14 @@
 ---
 layout: lecture
-title: Week 7
-date: 2015-11-12 15:00
+title: Week 1
+date: 2016-09-26 9:00
 length: 2
-venue: HI-G25
+venue: 
 tagline: Introduction to the Course and the Tools
 ---
 
-* Week 7 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk7.pdf).
-* Week 7 talk from the practical session can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Practical_talk_Wk7.pdf)
-
+* Week 7 Lecture content can be downloaded here.
+* Week 7 talk from the practical session can be downloaded here
 
 **Useful links**
 
