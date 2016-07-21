@@ -58,5 +58,7 @@ constantly being open source software.
 However, there are a series of text books available in the library for
 you to consult:
 
-book1
+* Computational Statistics - G Sawitzki
+* R Programming for Bioinformatics - R. Gemtleman
+
 
