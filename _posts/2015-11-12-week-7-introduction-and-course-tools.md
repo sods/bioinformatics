@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: Week 1
+title: Week 7
 date: 2016-09-26 9:00
 length: 2
 venue: 
