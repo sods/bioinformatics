@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: Week 7
+title: Week 1
 date: 2016-09-30 15:00
 length: 2
 venue:
