@@ -4,6 +4,7 @@ title: Week 1
 date: 2016-09-26 9:00
 length: 2
 venue: AT-LT05
+session: 2016-2017
 tagline: Introduction to the Course and the Tools
 ---
 
