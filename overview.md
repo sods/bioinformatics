@@ -18,7 +18,7 @@ This module aims to provide an understanding of the fundamental concepts and tec
 
 The teaching consists of two hours of lectures and two of lab classes each week.
 
-Given the complexity of the time table this academic year, please make sure you check on MOLE for teh correct location and time of teh lectures and practicas. The teaching schedule and venues for each week are given here.
+Given the complexity of the time table this academic year, please make sure you check on MOLE for the correct location and time of the lectures and practicals. The teaching schedule and venues for each week are given here.
 
 **Rooms Location**
 
