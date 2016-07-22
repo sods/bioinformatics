@@ -2,6 +2,7 @@
 layout: lecture
 title: Week 8
 date: 2015-11-19 15:00
+session: 2015-2016
 length: 2
 venue: HI-F28
 tagline: Concepts of Statistics and their Implementation for Data Analysis

@@ -2,6 +2,7 @@
 layout: lecture
 title: Week 10
 date: 2015-12-03 15:00
+session: 2015-2016
 length: 2
 venue: HI-F28
 tagline: Gene Expression Analysis, use of Bioconductor and Limma

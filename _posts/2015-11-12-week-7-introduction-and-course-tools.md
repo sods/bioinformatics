@@ -3,6 +3,7 @@ layout: lecture
 title: Week 7
 date: 2015-11-12 9:00
 length: 2
+session: 2015-2016
 venue: 
 tagline: Introduction to the Course and the Tools
 ---

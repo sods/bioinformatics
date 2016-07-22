@@ -2,6 +2,7 @@
 layout: lab
 title: Week 9
 date: 2015-11-27 15:00
+session: 2015-2016
 length: 2
 venue: IC 3.02
 tagline: First steps analysis of High Throughput Data
