@@ -59,6 +59,6 @@ However, there are a series of text books available in the library for
 you to consult:
 
 * Computational Statistics - G Sawitzki
-* R Programming for Bioinformatics - R. Gemtleman
+* R Programming for Bioinformatics - R. Gentleman
 
 
