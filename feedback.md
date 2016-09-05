@@ -3,14 +3,16 @@ layout: page
 title: Feedback
 ---
 **BMS353** is a module where theoretical knowldge is applied to data analysis. To this scope we will use tools like programming and statistical methods that enable us to do so. In order to learn smoothly and construct your knowledge in the subject, it is very import that you value and considere the contribution of **feedback** in your learning. To this pourpose there will be a variety of activities during the module that are specifically aimed at: 
-  1. improving provision of quality feedback
-  * improving students engagement with feedback. 
+    
+    1. improving provision of quality feedback
+    * improving students engagement with feedback. 
 
 Feedback in BMS353 will be given in the following ways:
+  
   1. **during lectures and practicals**
-  2. **with self-marking of notebooks**
-  3. **in discussion forums**
-  4. **by email when discussion forums have not answered the question.** 
+  * **with self-marking of notebooks**
+  * **in discussion forums**
+  * **by email when discussion forums have not answered the question.** 
 
 
 Please take a look at the university guidance below to help yourself to familiarise with the concept of feedback. 
