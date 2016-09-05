@@ -9,10 +9,10 @@ title: Feedback
 
 Feedback in BMS353 will be given in the following ways:
 
-  1. **during lectures and practicals**
-  * **with self-marking of notebooks**
-  * **in discussion forums**
-  * **by email when discussion forums have not answered the question.** 
+1. **during lectures and practicals**
+2. **with self-marking of notebooks**
+3. **in discussion forums**
+4. **by email when discussion forums have not answered the question.** 
 
 
 Please take a look at the university guidance below to help yourself to familiarise with the concept of feedback. 
