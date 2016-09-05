@@ -40,7 +40,6 @@ Your department will ensure that the feedback you receive is of good quality. Yo
 
 
 
-
 {% if site.comments %}
 {% include disqus_comment_code.html %}
 {% endif %}
