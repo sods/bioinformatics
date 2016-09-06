@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Week 4
-date: 2016-10- 11:00
+date: 2016-10-20 11:00
 session: 2016-2017
 length: 2
 venue: HB- LT3
