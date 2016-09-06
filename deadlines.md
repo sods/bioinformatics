@@ -31,4 +31,4 @@ The MCQs will contribute 30% to the final module grade.
 
 **Final project deadline** 
 
-Final projects will have to be saved in their final versions on the SageMathCloud personal folders by ....... at 5pm. 
+Final projects will have to be saved in their final versions on the SageMathCloud personal folders by 15th January 2017 by 5pm. 
