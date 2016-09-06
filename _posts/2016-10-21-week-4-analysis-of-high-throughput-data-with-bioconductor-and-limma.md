@@ -2,7 +2,7 @@
 layout: lab
 title: Week 4
 date: 2016-10-21 15:00
-session: 2015-2016
+session: 2016-2017
 length: 2
 venue: BH-ALG04
 tagline: Analysis of High Throughput Data with Bioconductor and Limma
