@@ -25,8 +25,10 @@ Given the complexity of the time table this academic year, please make sure you 
  Room code   |Building              |Room
  ----------- |-------------------   |----
  AT-LT05      | Arts Tower       | LT05
- AT-1012      | Arts Tower       | Computer rooms
+ BH-ALG04    | Batolome House    | Computer Room ALG04
+ MS-LT3      | Medical School      | Lecture Theatre 3
  HI-LT03     | Hicks Building  | LT03
- ADB-A04     | Alfred Benny Building |A04
+ ADB-A04     | Alfred Benny Building |Computer Room A04
  FC-G02      | Firth Court | G02
+ FC-CR       | Firth Court | Pool Computer Room
  
