@@ -30,13 +30,10 @@ Your department will provide clear information about the types of feedback you w
 
 ## Principle 4 Feedback is timely 
 You will receive regular feedback throughout your modules, timed to help with your final assessment. Feedback on assessed work will normally be within 3 weeks.
-
 ## Principle 5 Feedback is consistently delivered 
 Your feedback will be delivered in an accessible and consistent manner, and will relate to module assessment criteria and learning outcomes. There will be an opportunity to view exam scripts.
-
 ## Principle 6 Feedback quality is maintained 
 Your department will ensure that the feedback you receive is of good quality. Your student reps will be involved in the process of maintaining that quality.
-
 
 
 
