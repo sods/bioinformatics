@@ -21,6 +21,8 @@ Since the final project deadline is far from the end of module it is **recommend
 
 
 **Suggested Deadlines for Self-assessment**
+
+
 * **Week 1 assessment**: 7th November (Week 7) by 3:00pm
 * **Week 2 assessment**: 14th November (Week 8) by 3:00pm
 * **Week 3 assessment**: 21st November (Week 9) by 3:00pm
