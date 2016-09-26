@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Feedback
+title: Feedback_Old
 ---
 **BMS353** is a module where theoretical knowldge is applied to data analysis. In this module we will use tools like programming and statistical methods that enable us to do so. In order to learn smoothly and construct your knowledge in the subject, it is very important that you value and considere the contribution of **feedback** in your learning. To this pourpose there will be a variety of activities during the module that are specifically aimed at:
     
