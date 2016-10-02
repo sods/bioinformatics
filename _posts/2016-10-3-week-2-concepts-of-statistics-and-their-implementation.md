@@ -19,3 +19,5 @@ Here are some examples of the use of [Statistics in Biology](http://www.nature.c
 
 
 Information on [Bessel's correction](https://en.wikipedia.org/wiki/Bessel%27s_correction) for the sample variance. 
+
+A simple blog post with example of [statistical tests] (http://blog.minitab.com/blog/adventures-in-statistics/choosing-between-a-nonparametric-test-and-a-parametric-test), when to use them and how 
