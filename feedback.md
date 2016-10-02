@@ -3,8 +3,9 @@ layout: page
 title: Feedback
 ---
 
-**BMS353** is a module where theoretical knowldge is applied to data analysis. To this scope we will use tools like programming and statistical methods that enable us to do so. In order to learn smoothly and construct your knowledge in the subject, it is very import that you value and considere the contribution of **feedback** in your learning. To this pourpose there will be a variety of activities during the module that are specifically aimed at:
+**BMS353** is a module where theoretical knowledge is applied to data analysis. To this end we will use tools like programming and statistical methods that enable us to do so. To learn smoothly and construct your knowledge in the subject, it is very important that you value and consider the contribution of **feedback** in your learning. To this purpose there will be a variety of activities during the module that are specifically aimed at:
 
+    
 * improving provision of quality feedback
 * improving students engagement with feedback. 
 
@@ -30,30 +31,29 @@ do this.
 
 
 ## Principle 2 Feedback is for learning 
+
 Feedback should help you to improve your future performance as well as provide comment on work already done.
-Feedback should affirm what you already know and offer encouragement. Feedback comes in many forms: written, face-
-to-face (both individual and collectively), from your peers, electronically via MOLE, in audio files or email. 
-Opportunities for reflection on your feedback should be provided by personal tutors or elsewhere.
+Feedback should affirm what you already know and offer encouragement. Feedback comes in many forms: written, face-to-face (both individual and collectively), from your peers, electronically via MOLE, in audio files or email. Opportunities for reflection on your feedback should be provided by personal tutors or elsewhere.
 
 
 ## Principle 3 Feedback is clearly communicated to students 
-Your department will provide clear information about the types of feedback you will receive and the dates when it
-is available for all modules.
+
+Your department will provide clear information about the types of feedback you will receive and the dates when it is available for all modules.
 
 
 ## Principle 4 Feedback is timely 
-You will receive regular feedback throughout your modules, timed to help with your final assessment. Feedback on 
-assessed work will normally be within 3 weeks.
+
+You will receive regular feedback throughout your modules, timed to help with your final assessment. Feedback on assessed work will normally be within 3 weeks.
 
 
 ## Principle 5 Feedback is consistently delivered 
+
 Your feedback will be delivered in an accessible and consistent manner, and will relate to module assessment 
 criteria and learning outcomes. There will be an opportunity to view exam scripts.
 
 
 ## Principle 6 Feedback quality is maintained 
-Your department will ensure that the feedback you receive is of good quality. Your student reps will be involved 
-in the process of maintaining that quality.
+Your department will ensure that the feedback you receive is of good quality. Your student reps will be involved in the process of maintaining that quality.
 
 
 
