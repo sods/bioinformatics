@@ -8,7 +8,7 @@ venue: MS- LT3
 tagline: Bioinformatics for High Throughput Data
 ---
 
-* Week 3 Lecture content can be downloaded [here].
+* Week 3 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk3.pdf).
 
 ### Additional Reading
 
