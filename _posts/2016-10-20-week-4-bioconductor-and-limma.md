@@ -8,7 +8,7 @@ venue: HI- LT3
 tagline: Gene Expression Analysis, use of Bioconductor and Limma
 ---
 
-* Week 4 Lecture content can be downloaded [here]
+* Week 4 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk4.pdf)
 
 ### Additional Reading
 
