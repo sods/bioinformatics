@@ -9,7 +9,7 @@ tagline: Introduction to the Course and the Tools
 ---
 
 * Week 1 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk1.pdf).
-* Week 1 talk from the practical session can be downloaded here.
+* Week 1 talk from the practical session can be downloaded [here](http://opendsi.cc/bioinformatics/assets/SageMathCloud_BMS353.pdf).
 
 **Useful links**
 
