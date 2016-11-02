@@ -9,7 +9,7 @@ tagline: Implementation of high level Gene Expression Analysis and Functional/Pa
 ---
 
 
-Week 5 practical notebook is linked into your SageMathCloud account in the folder called “Week5”, with the name **Week_11_practical.ipynb**
+Week 5 practical notebook is linked into your SageMathCloud account in the folder called “Week5”, with the name **Week_5_practical.ipynb**
 
 The data required for the practical is stored in a folder called "data_wk_5" indide your "Week5" directory on SageMathCloud.
 
