@@ -4,7 +4,7 @@ title: Week 7
 date: 2017-11-7 15:00
 session: 2017-2018
 length: 2
-venue: FC-F02
+venue: GB- G4
 tagline: Basics of Data Manipulation Using Scripts
 ---
 
