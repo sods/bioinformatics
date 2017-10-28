@@ -1,7 +1,7 @@
 ---
 layout: lab
 title: Week 9
-date: 2017-11-6 15:00
+date: 2017-11-21 15:00
 session: 2017-2018
 length: 2
 venue: GB- G4
