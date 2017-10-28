@@ -1,7 +1,7 @@
 ---
 layout: lab
 title: Week 10
-date: 2016-11-28 15:00
+date: 2017-11-28 15:00
 session: 2017-2018
 length: 2
 venue: GB - G4
