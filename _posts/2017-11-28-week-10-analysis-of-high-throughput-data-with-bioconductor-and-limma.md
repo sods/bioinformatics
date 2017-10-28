@@ -20,7 +20,7 @@ You will them receive a notebook with solved exercises and a guideline for peer-
 You are encouraged to discuss your work with your peer to work together. Remeber this is practicals won't count to the final grade but they are essential to build the final project, which will count for 70% of your final grade. 
 
 
-### Additional Reading
+### Additional Reading 
 
 User guides are very useful when performing data analysis. Official user guides for *affy* and *limma* can be downloaed below.
 
