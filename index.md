@@ -38,7 +38,7 @@ below:
 * [CoCalc](https://cocalc.com/)
 
 * [Jupyter Notebook on CoCalc](https://www.youtube.com/watch?v=cR0JV8bmUt0) 
-Please be aware that SageMathCloud has recently changed into Cocalc, some tutorial material can be still under SageMathCloud name. changed. 
+Please be aware that SageMathCloud has recently changed into Cocalc, some tutorial material can be still using the SageMathCloud name.
 
 * [Jupyter
 Notebook](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
