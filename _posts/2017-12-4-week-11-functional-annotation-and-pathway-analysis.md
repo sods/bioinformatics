@@ -4,7 +4,7 @@ title: Week 11
 date: 2017-12-4 15:00
 session: 2017-2018
 length: 2
-venue: FC-G02
+venue: FC- F02
 tagline: High Level gene expression Analysis. Functional Annotation and Pathway Analysis
 ---
 
