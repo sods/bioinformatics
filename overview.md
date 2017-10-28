@@ -7,10 +7,10 @@ BMS353 - Bioinformatics for Biomedical Science --
 Module Co-ordinator: [Dr Marta Milo](https://www.sheffield.ac.uk/bms/research/milo)
 
 
-Research Software Support: [Dr Mike Croucher](http://www.walkingrandomly.com/)
+Research Software Support: [Research Software Engineering Sheffield](https://rse.shef.ac.uk) led by [Dr Mike Croucher](http://www.walkingrandomly.com/)
 
 
-Semester 1A – Level 3 Biomedical Science 2016/2017
+Semester 1B – Level 3 Biomedical Science 2017/2018
 
 ## Description
 
@@ -24,11 +24,6 @@ Given the complexity of the time table this academic year, please make sure you 
 
  Room code   |Building              |Room
  ----------- |-------------------   |----
- AT-LT05      | Arts Tower       | LT05
- BH-ALG04    | Bartolomé House    | Computer Room ALG04
- MS-LT3      | Medical School      | Lecture Theatre 3
- HI-LT03     | Hicks Building  | LT03
- ADB-A04     | Alfred Benny Building |Computer Room A04
- FC-G02      | Firth Court | G02
- FC-CR       | Firth Court | Pool Computer Room
+ GB- G4      | Geography Building   | G4
+ FC- F02     | Firth Court | F02
  
