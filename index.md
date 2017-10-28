@@ -35,10 +35,10 @@ prerequisites are compulsory. A pre-assessment test can be found
 Some suggested sites where additional material can be found, are listed
 below:
 
-* [SageMathCloud](https://cloud.sagemath.com)
+* [CoCalc](https://cocalc.com/)
 
-* [Jupyter Notebook on
-SageMathCloud](https://www.youtube.com/watch?v=cR0JV8bmUt0)
+* [Jupyter Notebook on CoCalc](https://www.youtube.com/watch?v=cR0JV8bmUt0) 
+Please be aware that SageMathCloud has recently changed into Cocalc, some tutorial material can be still under SageMathCloud name. changed. 
 
 * [Jupyter
 Notebook](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html)
