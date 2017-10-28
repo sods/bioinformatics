@@ -4,7 +4,7 @@ title: Week 9
 date: 2017-11-6 15:00
 session: 2017-2018
 length: 2
-venue: FC-F02
+venue: GB- G4
 tagline: First steps analysis of High Throughput Data
 ---
 
