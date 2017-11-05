@@ -7,7 +7,7 @@ BMS353 - Bioinformatics for Biomedical Science --
 Module Co-ordinator: [Dr Marta Milo](https://www.sheffield.ac.uk/bms/research/milo)
 
 
-Research Software Support: [Research Software Engineering Sheffield](https://rse.shef.ac.uk) led by [Dr Mike Croucher](http://www.walkingrandomly.com/)
+Research Software Support: [Research Software Engineering Sheffield](http://rse.shef.ac.uk) led by [Dr Mike Croucher](http://www.walkingrandomly.com/)
 
 
 Semester 1B – Level 3 Biomedical Science 2017/2018
