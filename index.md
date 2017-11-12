@@ -35,7 +35,7 @@ prerequisites are compulsory. A pre-assessment test can be found
 Some suggested sites where additional material can be found, are listed
 below:
 
-* [CoCalc](https://cocalc.com/)
+* [CoCalc](https://cocalc.com/) A tutorial on how to use CoCal from RSE Sheffield team can be found [here](https://tutorial.cocalc.com/students/)
 
 * [Jupyter Notebook on CoCalc](https://www.youtube.com/watch?v=cR0JV8bmUt0) 
 Please be aware that SageMathCloud has recently changed into Cocalc, some tutorial material can be still using the SageMathCloud name.
