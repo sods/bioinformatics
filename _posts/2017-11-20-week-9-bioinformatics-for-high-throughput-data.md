@@ -12,6 +12,12 @@ tagline: Bioinformatics for High Throughput Data
 
 ### Additional Reading
 
+Additional informatuon on Next Generation Sequencing can be found [here](http://opendsi.cc/bioinformatics/assets/edpract-2013-304340.pdf)
+
+Additional reading on 3D Genome can be found [here](http://opendsi.cc/bioinformatics/assets/nrg.2016.112.pdf)
+
+Additional material on Hi-C can be found [here](http://opendsi.cc/bioinformatics/assets/nsmb.3404.pdf)
+
 Additional information on *median polish* methods are linked [here](http://opendsi.cc/bioinformatics/assets/medpol.pdf).
 
 You can read more on *quantile normalisation* [here](https://en.wikipedia.org/wiki/Quantile_normalization)
