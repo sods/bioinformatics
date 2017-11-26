@@ -8,7 +8,7 @@ venue: FC- F02
 tagline: Gene Expression Analysis, use of Bioconductor and Limma
 ---
 
-* Week 10 Lecture content can be downloaded [here].
+* Week 10 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk10.pdf).
 
 ### Additional Reading
 
