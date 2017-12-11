@@ -8,12 +8,12 @@ venue: GB- G4
 tagline: Experimental Design, Projects Pipelines and Wrap Up
 ---
 
-Week 12 practical notebook is linked into your CoCalc account in the folder called “Week12_A”, “Week12_B”, “Week12_C”, “Week12_D" with the name `Week_12_practical.ipynb`. The name of the folder is associated with the four different groups to which you have been allocated for the final project.
+Week 12 practical notebook is linked into your CoCalc account in the folder called "Week12". In the folder with the name of the four different groups to which you have been allocated you will find the notebook for the final project and the data for it. The folders are: “ProjectA”, “ProjectB”, “ProjectC” and “ProjectD". 
 
 
 ### Final Project
 
 The titles will be assigned in due course
 
-The data required for the project will be stored in a folder called "data_groupA", "data_groupB", "data_groupC", "data_groupD" which will be located in your CoCalc folder.
+The data required for the project will be stored in a folder called "data_projectA", "data_projectB", "data_projectC", "data_projectD" which will be located in your CoCalc folder.
 
