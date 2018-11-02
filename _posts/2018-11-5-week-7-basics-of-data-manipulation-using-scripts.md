@@ -10,7 +10,7 @@ tagline: Basics of Data Manipulation Using Scripts
 
 Week 7 practical notebook is linked into your CoCalc account in the folder called "Week 7", with the name **Week_7_practical.ipynb**
 
-The deadlines for automatic collection of your notebook is **12th November (Week8) by 3:00pm** ( GR1) and **13th November (Week8) by 3:00pm** (GR2).
+The deadlines for automatic collection of your notebook is **12th November (Week8) by 3:00pm** ( GRA) and **13th November (Week8) by 3:00pm** (GRB).
 
 You will then receive a notebook with solved exercises and a guideline for self-marking. Collection of your self-marking is: **14th November (Week 8) by 5:00pm**. You can complete the marking any time before then. It is advisable that you revise your own notebook using the solutions provided. This will help to improve yquicker your coding skils. Formative feedback will only be given on self-maked notebooks. 
 
