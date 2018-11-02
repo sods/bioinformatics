@@ -4,7 +4,11 @@ title: Week 7
 date: 2018-11-5 15:00
 session: 2018-2019
 length: 2
+<<<<<<< HEAD
 venue: PR-F110 and DB-CR2 ( on Tuesday, November 6 at 15:00)
+=======
+venue: PR-F110 and DB-CR2 (on Tuesday)
+>>>>>>> 20b33994fb00ffb4d10ec0e37bda3c10a0f05bad
 tagline: Basics of Data Manipulation Using Scripts
 ---
 
