@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Week 9
-date: 2017-11-20 15:00
+date: 2018-11-20 15:00
 session: 2018-2019
 length: 2
 venue: FC-F02
