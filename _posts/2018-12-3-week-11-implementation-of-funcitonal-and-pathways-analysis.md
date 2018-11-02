@@ -13,7 +13,7 @@ Week 11 practical notebook is linked into your CoCalc account in the folder call
 
 The data required for the practical is stored in a folder called "data_wk_11" indide your "Week11" directory on CoCalc.
 
-The deadline for automatic collection of your notebook is **10th December (Week 12) by 3:00pm** (GR1) and **11th Decenber by 3:00pm** (GR2).
+The deadline for automatic collection of your notebook is **10th December (Week 12) by 3:00pm** (GRA) and **11th Decenber by 3:00pm** (GRB).
 
 You will then receive a notebook with solved exercises and a guideline for self-marking. Collection of your self-marking is: **12th December (Week 12) by 5:00pm**. You can complete the marking any time before then. It is advisable that you revise your own notebook using the solutions provided. This will help to improve quicker your coding skils. Formative feedback will only be given on self-maked notebooks.  
 
