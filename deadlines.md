@@ -7,16 +7,16 @@ title: Deadlines
 
 The practical classes need to be handed in the form of notebooks by the following deadlines:
 
-* Monday 12th November (Week 8) by 3:00pm (Group 1)
-* Tuesday 13th November (Week 8) by 3:00pm (Group 2)
-* Monday 19th November (Week 9) by 3:00pm (Group 1)
-* Tuesday 20th November (Week 9) by 3:00pm (Group 2)
-* Monday 26th November (Week 10) by 3:00pm (Group 1)
-* Tuesday 27th November (Week 10) by 3:00pm (Group 2)
-* Monday 3rd December (Week 11) by 3:00pm (Group 1)
-* Tuesday 4th December (Week 11) by 3:00pm (Group 2)
-* Monday 10th December (Week 12) by 3:00pm (Group 1)
-* Tuesday 11th December (Week 12) by 3:00pm (Group 2)
+* Monday 12th November (Week 8) by 3:00pm (Group A)
+* Tuesday 13th November (Week 8) by 3:00pm (Group B)
+* Monday 19th November (Week 9) by 3:00pm (Group A)
+* Tuesday 20th November (Week 9) by 3:00pm (Group B)
+* Monday 26th November (Week 10) by 3:00pm (Group A)
+* Tuesday 27th November (Week 10) by 3:00pm (Group B)
+* Monday 3rd December (Week 11) by 3:00pm (Group A)
+* Tuesday 4th December (Week 11) by 3:00pm (Group B)
+* Monday 10th December (Week 12) by 3:00pm (Group A)
+* Tuesday 11th December (Week 12) by 3:00pm (Group B)
 
 Setup to run the lab classes is using Jupyter notebooks on CoCalc.
 All the notebooks will have to be uploaded on this system in your labClasses folder including the final project.
