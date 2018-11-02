@@ -33,6 +33,6 @@ Given the complexity of the time table this academic year, please make sure you 
  Room code   |Building              |Room
  ----------- |-------------------   |----
  PR- F110    | Geography Building   | F110
- DB- CR2     | diomond Building     | CR2
+ DB- CR2     | Diomond Building     | CR2
  FC- F02     | Firth Court          | F02
  
