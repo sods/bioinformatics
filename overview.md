@@ -32,7 +32,7 @@ Given the complexity of the time table this academic year, please make sure you 
 
  Room code   |Building              |Room
  ----------- |-------------------   |----
- PR- F110    | Geography Building   | F110
- DB- CR2     | Diomond Building     | CR2
+ PR- F110    | Broad Lane- Pool Computer Room  | F110
+ DB- CR2     | Diamond Building     | CR2
  FC- F02     | Firth Court          | F02
  
