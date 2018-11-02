@@ -15,7 +15,7 @@ The data required for the practical is stored in a folder called "data_wk_11" in
 
 The deadline for automatic collection of your notebook is **10th December (Week 12) by 3:00pm** (GR1) and **11th Decenber by 3:00pm** (GR2).
 
-You will then receive a notebook with solved exercises and a guideline for self-marking. Collection of your self-marking is: **12th December (Week 12) by 5:00pm**. You can complete the marking any time before then. It advisable that you revise your own notebook using the solutions provided. This will help to improve quicker your coding skils. Formative feedback will only be given on self-maked notebooks.  
+You will then receive a notebook with solved exercises and a guideline for self-marking. Collection of your self-marking is: **12th December (Week 12) by 5:00pm**. You can complete the marking any time before then. It is advisable that you revise your own notebook using the solutions provided. This will help to improve quicker your coding skils. Formative feedback will only be given on self-maked notebooks.  
 
 You are encouraged to discuss your work with your peer to work together. Remeber this is practicals won't count to the final grade but they are essential to build the final project, which will count for 70% of your final grade. 
 
