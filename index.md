@@ -21,6 +21,17 @@ examples will be introduced to provide the students with key steps to
 perform experimental design in data collection, data analysis and
 results validation.
 
+#### MODULE OBJECTIVES
+Following the course and additional reading you should be able to meet the following module objectives (more detailed objectives can be provided for each lecture later in the handbook if you want):
+1.	provide an understanding of the fundamental concepts and technologies underlying computational biology and bioinformatics
+
+2.	equip biology students with basic knowledge of mathematical concepts them with methods of Bioinformatics and Computational biology
+
+3.	use a multidisciplinary approach integrated with programming tools and  statistical concepts underpinning advanced data analysis and methods that are suitable for high-throughput data analysis 
+
+4.	provide new transferable skills
+
+
 The course will present state-of-the art research in computational
 biology with guest lecture and enable students to critically assess
 statistical methods and enhance innovative thinking in data analysis.
@@ -61,4 +72,6 @@ you to consult:
 * Computational Statistics - G Sawitzki
 * R Programming for Bioinformatics - R. Gentleman
 
+#### Reading list
+Each lecture is supported by paper and web links that have the scope to support learning.  
 
