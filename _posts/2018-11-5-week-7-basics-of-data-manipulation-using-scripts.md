@@ -1,10 +1,10 @@
 ---
 layout: lab
 title: Week 7
-date: 2018-11-5 15:00 and 2018-11-6 15:00
+date: 2018-11-5 15:00
 session: 2018-2019
 length: 2
-venue: PR-F110 and DB-CR2
+venue: PR-F110 and DB-CR2 (on Tuesday)
 tagline: Basics of Data Manipulation Using Scripts
 ---
 
