@@ -17,9 +17,11 @@ Feedback in BMS353 will be given in the following ways:
 4. **by email when discussion forums have not answered the question.** 
 
 
-#### ORMATIVE FEEDBACK 
+
+#### FORMATIVE FEEDBACK 
 The lab practical notebooks handed in during the module will constitute formative feedback that can be used for the final project and to build knowledge and proficiency in coding.
 Solutions for the weekly coursework will be provided the week following the coursework assignment. They will be used to self-assess the practical work and a guide for assessment will be provided every week and it is reported below. 
+
 
 **Assessment for Practical in BMS353**
 
@@ -63,7 +65,7 @@ Sum the scores gained for each exercise to derive the final total score. To calc
 
 Finaly, please take a look at the university guidance below to help yourself to familiarise with the concept of feedback. 
 
-# The Principles of Feedback (University of Sheffield) - Guidance for students
+### The Principles of Feedback (University of Sheffield) - Guidance for students
 
 #### Principle 1 Student engagement with feedback is promoted 
 Feedback is a 2-way process, an on-going dialogue between you and your lecturers. In order for feedback to work 
