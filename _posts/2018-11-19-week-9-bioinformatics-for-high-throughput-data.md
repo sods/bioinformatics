@@ -1,14 +1,14 @@
 ---
 layout: lecture
 title: Week 9
-date: 2017-11-19 15:00
-session: 2017-2018
+date: 2017-11-20 15:00
+session: 2018-2019
 length: 2
 venue: FC-F02
 tagline: Bioinformatics for High Throughput Data
 ---
 
-* Week 9 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk9.pdf).
+* Week 9 Lecture content can be downloaded here.
 
 ### Additional Reading
 
