@@ -10,10 +10,10 @@ tagline: Experimental Design, Projects Pipelines and Tutorial workshop
 
 Week 12 practical notebook is linked into your CoCalc account in the folder called "Week12". In the folder with the name of the different groups to which you have been allocated you will find the notebook for the final project and the data for it.  
 
-### Tutorial Workshop
-Take your questions and you coding problem to the practical and we will try to solve as many as possible. This will be a student-led session for the durtion of 1hr.
+#### Tutorial Workshop
+Take your questions and you coding problem to the practical and we will try to solve as many as possible. This will be a student-led session for the duration of 1hr.
 
-### Final Project
+#### Final Project
 The titles will be assigned in due course and the data allocated in your project folders.
 
 
