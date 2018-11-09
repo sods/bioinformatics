@@ -3,7 +3,7 @@ layout: page
 title: FAQs
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/about_image.jpg" width="30%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/faq.png" width="30%"/>
 
 ### Frequently Asked Questions
 
