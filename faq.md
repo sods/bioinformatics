@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ - Frequently Asked Questions
+title: FAQ
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/about_image.jpg" width="30%"/>
