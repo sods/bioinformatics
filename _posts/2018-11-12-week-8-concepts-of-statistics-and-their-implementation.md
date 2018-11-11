@@ -8,7 +8,7 @@ venue: FC-F02
 tagline: Concepts of Statistics and their Implementation for Data Analysis
 ---
 
-* Week 8 Lecture content can be downloaded here 
+* Week 8 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk8.pdf) 
 
 
 **Additional reading**
