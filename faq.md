@@ -12,11 +12,14 @@ This is a list of frequent questions asked accross time by students of BMS353. Y
 1. **How do I change my kernel?** Go on the notebook horizontal bar menu and choose Kernel->Change Kernel -> R(SageMath)
 
 
-2. **After restarting my code not work any more.** After a kernel restart you must execute ( shift+enter) all your previous cade cells. This si because a restart of teh kernel wipes your workspace of all the objects. 
+2. **After restarting my code not work any more.** After a kernel restart you must execute (shift+enter) all your previous code cells. This is because a restart of the kernel wipes your workspace of all the objects. 
 
 
-3. **I am trying to press execute the code/cell but I get a message saying 'Trying to evaluate using lr-sage' or 'Waiting for another computer to finish first'**. This si the case of a conflit in the kernel, either you have a mistake in the code to have crashed the kernel or accidentally a conflict was created in the kernel. Restart your kernel and execute the cells up to the point you got stuck. Debug that point or use alternative code.
+3. **I am trying to press execute the code cell but I get a message saying 'Trying to evaluate using lr-sage' or 'Waiting for another computer to finish first'**. This is the case of a conflit in the kernel, either you have a mistake in the code to have crashed the kernel or accidentally a conflict was created. Restart your kernel and execute the cells up to the point you got stuck. Debug that point or use alternative code.
 
 
 4. **Are markdown cells necessary if we use in code commenting?** The aim of your notebook is to create a document where you embed the code within the interpretation of the data. It is not a mere coding excise. The notebook is like a report, a paper if you wish. In the markdown cells you need to add this part and the comments related to the code are within the code cells. 
 In this sense the markdown cells are absolutely crucial and the notebook will also be evaluated on clarity and interpretation of the data. 
+
+
+5. **What do I do if the execution gets stuck?** The most best option is to restart the kernel. Be aware that after restart you need to execute all the cells. See question 2.
