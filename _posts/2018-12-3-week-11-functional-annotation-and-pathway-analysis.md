@@ -9,7 +9,7 @@ tagline: High Level gene expression Analysis. Functional Annotation and Pathway 
 ---
 
 
-* Week 11 Lecture content can be downloaded here. 
+* Week 11 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_Wk11.pdf). 
 
 ### Additional Reading
 
