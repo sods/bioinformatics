@@ -8,4 +8,4 @@ venue: FC- F02
 tagline: Project Allocation and Discussion 
 ---
 
-* Week 12 Lecture content can be downloaded here.
+* Week 12 Lecture content can be downloaded [here]().
