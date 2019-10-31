@@ -10,7 +10,7 @@ Module Co-ordinator: [Dr Marta Milo](https://www.sheffield.ac.uk/bms/research/mi
 Research Software Support: the module is supported by principle of [Open Data Science Initiative]( http://opendsi.cc/) and [Research Software Engineering](http://rse.ac.uk/) in collaboration with [Dr Mike Croucher](http://www.walkingrandomly.com/)
 
 
-Semester 1B – Level 3 Biomedical Science 2018/2019
+Semester 1B – Level 3 Biomedical Science 2019/2020
 
 ## Description
 
@@ -30,9 +30,9 @@ Given the complexity of the time table this academic year, please make sure you 
 
 **Rooms Location**
 
- Room code   |Building              |Room
- ----------- |-------------------   |----
- PR- F110    | Broad Lane- Pool Computer Room  | F110
- DB- CR2     | Diamond Building     | CR2
- FC- F02     | Firth Court          | F02
+ Room code   |Building                         |Room
+ ----------- |-------------------------------- |----
+ BH- ALG04   | Bartolome House, Computer Room  | ALG04 
+ AT- CR2     | Arts Tower- Pool Computer Room  | CR 1012
+ AT-LT03     | Arts Tower                      | LT03
  
