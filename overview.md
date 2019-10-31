@@ -32,7 +32,7 @@ Given the complexity of the time table this academic year, please make sure you 
 
  Room code   |Building                         |Room
  ----------- |-------------------------------- |----
- BH- ALG04   | Bartolome House, Computer Room  | ALG04 
+ BH- ALG04   | Bartolome House- Computer Room  | ALG04 
  AT- CR2     | Arts Tower- Pool Computer Room  | CR 1012
  AT-LT03     | Arts Tower                      | LT03
  
