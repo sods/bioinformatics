@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Week 7
-date: 2019-11-11 15:00
+date: 2019-11-11 12:00
 length: 2
 venue: AT-LT03
 session: 2019-2020
