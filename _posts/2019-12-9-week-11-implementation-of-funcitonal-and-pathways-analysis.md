@@ -1,7 +1,7 @@
 ---
 layout: lab
 title: Week 11
-date: 2019-12-9 15:00
+date: 2019-12-9 12:00
 session: 2019-2020
 length: 2
 venue: AT-CR2 and BH-ALG04 (on Tuesday, December 10th at 15:00)
