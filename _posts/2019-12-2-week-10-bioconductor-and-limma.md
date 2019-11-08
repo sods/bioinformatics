@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Week 10
-date: 2019-12-2 15:00
+date: 2019-12-2 12:00
 session: 2019-2020
 length: 2
 venue: AT-LT03
