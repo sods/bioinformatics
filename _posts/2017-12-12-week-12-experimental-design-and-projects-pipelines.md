@@ -1,7 +1,7 @@
 ---
 layout: lab
 title: Week 12
-date: 2017-12-12 15:00
+date: 2017-12-12 12:00
 session: 2017-2018
 length: 2
 venue: GB- G4
