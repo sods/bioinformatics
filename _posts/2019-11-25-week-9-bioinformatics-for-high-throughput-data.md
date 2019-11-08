@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: Week 9
-date: 2019-11-25 15:00
+date: 2019-11-25 12:00
 session: 2019-2020
 length: 2
 venue: AT-LT03
