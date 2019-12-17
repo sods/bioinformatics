@@ -8,5 +8,5 @@ venue: FC- F02
 tagline: Project Allocation and Discussion 
 ---
 
-* Week 12 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_w12.pdf).
-The version used in class on the 16 December 2019 can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_w12_Ext.pdf).
+* Week 12 Lecture content can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_wk12.pdf).
+The version used in class on the 16 December 2019 can be downloaded [here](http://opendsi.cc/bioinformatics/assets/Lecture_wk12_Ext.pdf).
