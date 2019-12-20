@@ -32,7 +32,7 @@ The final project will have to be saved in its final form on the CoCalc system i
 
 **Final project deadline** 
 
-Final projects will have to be saved in their final versions on the CoCalc personal folders by **14th January 2020 by 5pm**. 
+Final projects will have to be saved in their final versions on the CoCalc personal folders by **17th January 2020 by 5pm**. 
 
 
 ## Multiple Choice Question (MCQ) Deadline
